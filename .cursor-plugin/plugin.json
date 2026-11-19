@@ -1,0 +1,26 @@
+{
+  "name": "northlight-seo",
+  "displayName": "Northlight SEO",
+  "version": "1.0.28",
+  "description": "Research keywords and competitors, audit sites, track rankings and AI visibility, and use connected Search Console data from your AI assistant.",
+  "author": {
+    "name": "Gateway, Inc",
+    "email": "support@northlight.ai"
+  },
+  "homepage": "https://seo.northlight.ai",
+  "repository": "https://github.com/Northlight-Systems/seo-plugin",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "keyword-research",
+    "competitor-research",
+    "site-audit",
+    "backlinks",
+    "search-console",
+    "rank-tracking",
+    "local-seo"
+  ],
+  "logo": "assets/icon.png",
+  "skills": "skills",
+  "mcpServers": ".mcp.json"
+}

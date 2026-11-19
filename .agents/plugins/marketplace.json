@@ -1,0 +1,16 @@
+{
+  "name": "northlight-seo",
+  "owner": {
+    "name": "Northlight SEO",
+    "url": "https://seo.northlight.ai"
+  },
+  "description": "Northlight SEO's official Codex plugin marketplace.",
+  "plugins": [
+    {
+      "name": "northlight-seo",
+      "source": "./",
+      "description": "Without good data, your agent gives generic advice. Keyword research, competitor research, backlinks, and site audits. All for $10/month.",
+      "category": "Productivity"
+    }
+  ]
+}

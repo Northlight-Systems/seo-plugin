@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "northlight-seo": {
+      "type": "http",
+      "url": "https://app.seo.northlight.ai/mcp"
+    }
+  }
+}

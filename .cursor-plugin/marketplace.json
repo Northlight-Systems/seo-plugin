@@ -1,0 +1,17 @@
+{
+  "name": "northlight-seo",
+  "owner": {
+    "name": "Gateway, Inc",
+    "email": "support@northlight.ai"
+  },
+  "metadata": {
+    "description": "Northlight SEO's official plugin marketplace for Grok Bot and Cursor."
+  },
+  "plugins": [
+    {
+      "name": "northlight-seo",
+      "source": "./",
+      "description": "SEO made simple. Research keywords and competitors, audit sites, track rankings, and use Search Console data from your agent."
+    }
+  ]
+}
